@@ -50,7 +50,19 @@ Operations:
 - The elliptic curve parameters `a` and `b` can be set to define different curves.
 
 ## Usage
+### Prerequisites
 
+- Rust installed. If not, install it using [rustup](https://rustup.rs/).
+- Cargo package manager (comes with Rust).
+
+### Installation
+
+Clone this repository:
+
+```sh
+git clone https://github.com/cypriansakwa/Extending_the_Domain_of_an_Elliptic_Curve_to_a_Larger_Field_in_Rust.git
+cd Extending_the_Domain_of_an_Elliptic_Curve_to_a_Larger_Field_in_Rust
+```
 ### Compile and Run
 
 ```sh
