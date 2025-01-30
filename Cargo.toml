@@ -1,0 +1,6 @@
+[package]
+name = "Computing_Scalar_Multiplication_nP_on_Elliptic_curve_Over_extention_of_Fields"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
