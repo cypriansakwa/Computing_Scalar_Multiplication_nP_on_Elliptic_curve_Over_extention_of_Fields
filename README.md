@@ -60,8 +60,8 @@ Operations:
 Clone this repository:
 
 ```sh
-git clone https://github.com/cypriansakwa/Extending_the_Domain_of_an_Elliptic_Curve_to_a_Larger_Field_in_Rust.git
-cd Extending_the_Domain_of_an_Elliptic_Curve_to_a_Larger_Field_in_Rust
+git clone https://github.com/cypriansakwa/Computing_Scalar_Multiplication_nP_on_Elliptic_curve_Over_extention_of_Fields.git
+cd Computing_Scalar_Multiplication_nP_on_Elliptic_curve_Over_extention_of_Fields
 ```
 ### Compile and Run
 
