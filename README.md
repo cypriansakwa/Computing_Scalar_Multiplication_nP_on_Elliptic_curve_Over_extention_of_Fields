@@ -1,4 +1,4 @@
-# Elliptic Curve Arithmetic over Finite Field Extensions $\mathbb{F}_p^k$
+# Computing Scalar Multiplication $nP$ on Elliptic Curve Over Extention of_Fields
 
 This project implements elliptic curve arithmetic over a finite field extension $\mathbb{F}_p^k$, where `p` is a prime and `k` is the extension degree. The implementation is generic and allows changing `p` and `k`. The default example uses **F₅²**.
 
