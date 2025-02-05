@@ -144,7 +144,7 @@ fn main() {
     let _b = F5x2::new(1, 0);
 
     let p = Point::new(Some(F5x2::new(1, 2)), Some(F5x2::new(4, 4)));
-    let n = 4;
+    let n = 3;
 
     let np = point_mul(n, p, a);
 
